@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "macros",
+        [
+            "babel-plugin-styled-components"
+        ],
+        // [
+        //     "transform-remove-console"
+        // ]
+    ]
+}
